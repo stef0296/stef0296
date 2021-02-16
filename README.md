@@ -6,7 +6,9 @@ I have worked with flutter for around 2 years now! It's been one of the most enj
 # Contact
 <p align="center">
   <a href="https://twitter.com/stefalvares">Twitter</a>
+  <span> | </span>
   <a href="https://www.linkedin.com/in/stefanoalvares">Linkedin</a>
+  <span> | </span>
   <a href="mailto:steff.alvares@gmail.com">EMAIL</a>
 </p>
 </br>
