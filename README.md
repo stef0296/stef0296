@@ -4,10 +4,11 @@ I am Stefano Alvares and I am a Software Developer with a love for mobile apps.<
 I have worked with flutter for around 2 years now! It's been one of the most enjoyable experiences I have had with coding.
 
 # Contact
-- [Twitter](https://twitter.com/stefalvares)
-- [Linkedin](https://www.linkedin.com/in/stefanoalvares)
-- [EMAIL](mailto:steff.alvares@gmail.com)
-
+<p align="center">
+  <a href="https://twitter.com/stefalvares">Twitter</a>
+  <a href="https://www.linkedin.com/in/stefanoalvares">Linkedin</a>
+  <a href="mailto:steff.alvares@gmail.com">EMAIL</a>
+</p>
 </br>
 
 <!--
