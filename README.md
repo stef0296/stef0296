@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Stefano Alvares and I am a Software Developer with a love for mobile apps.<br>
-I have worked with flutter for around 2 years now! It's been one of the most enjoyable experiences I have had with coding.
+I have worked with flutter for around 4 years now! It's been one of the most enjoyable experiences I have had with coding.
 
 # Contact
 <p align="center">
