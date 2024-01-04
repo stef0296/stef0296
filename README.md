@@ -1,7 +1,17 @@
 ### Hi there 👋
 
 I am Stefano Alvares and I am a Software Developer with a love for mobile apps.<br>
-I have worked with flutter for around 4 years now! It's been one of the most enjoyable experiences I have had with coding.
+Having previously worked extensively with Angular and Flutter for app development, I have currently switched to web and backend development with TypeScript.
+Technologies I currently work with or am learning:
+- NextJS (React framework)
+- NestJS (NodeJS framework with TS support)
+- Playwright (E2E Testing)
+- Azure DevOps
+
+Other than that, I speak:
+- English
+- Hindi
+- German (still learning 😛)
 
 # Contact
 <p align="center">
@@ -9,7 +19,7 @@ I have worked with flutter for around 4 years now! It's been one of the most enj
   <span> | </span>
   <a href="https://www.linkedin.com/in/stefanoalvares">Linkedin</a>
   <span> | </span>
-  <a href="mailto:steff.alvares@gmail.com">Email</a>
+  <a href="mailto:steff.alvares2@gmail.com">Email</a>
 </p>
 </br>
 
